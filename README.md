@@ -16,3 +16,4 @@
 | The River I.                            | :heavy_check_mark: Completed |
 | Ghost Legs                              | :heavy_check_mark: Completed |
 | Brackets, extreme edition.              | :heavy_check_mark: Completed |
+| May the Triforce be with you!           |                              |
