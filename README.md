@@ -22,11 +22,11 @@
 |Balanced ternary computer: encode|easy|2613|1637|:heavy_check_mark: Completed |
 |The Travelling Salesman Problem|easy|2206|1625|:heavy_check_mark: Completed |
 |Rugby score|easy|2114|1531|:heavy_check_mark: Completed |
-|Jack Silver: The Casino|easy|1754|1447|:heavy_multiplication_x: Incomplete |
+|Jack Silver: The Casino|easy|1754|1447|:heavy_check_mark: Completed |
 |Nature of quadrilaterals|easy|1756|1158|:heavy_check_mark: Completed |
 |orDer oF succeSsion|easy|1521|976|:heavy_check_mark: Completed |
-|ISBN Check digit|easy|1301|968|:heavy_multiplication_x: Incomplete |
-|How time flies|easy|1925|927|:heavy_multiplication_x: Incomplete |
+|ISBN Check digit|easy|1301|968|:heavy_check_mark: Completed |
+|How time flies|easy|1925|927|:heavy_check_mark: Completed |
 |Simple Awalé|easy|1125|926|:heavy_multiplication_x: Incomplete |
 |Dead men's shot|easy|1626|872|:heavy_multiplication_x: Incomplete |
 |Disordered First Contact|easy|1561|862|:heavy_multiplication_x: Incomplete |
