@@ -13,40 +13,12 @@
 |Horse-racing Duals|easy|72634|56683|:heavy_check_mark: Completed |
 |MIME Type|easy|59836|49771|:heavy_check_mark: Completed |
 |Defibrillators|easy|53280|45543|:heavy_check_mark: Completed |
-|The River I.|easy|6006|5025|:heavy_check_mark: Completed |
-|Power of Thor|codegolf|23272|17730|:heavy_multiplication_x: Incomplete |
-|CodinGame Sponsored Contest|optim|24506|9175|:heavy_multiplication_x: Incomplete |
 |Brackets, extreme edition.|easy|6074|5231|:heavy_check_mark: Completed |
+|The River I.|easy|6006|5025|:heavy_check_mark: Completed |
 |May the Triforce be with you!|easy|4462|3563|:heavy_check_mark: Completed |
-|Temperatures|codegolf|11755|8496|:heavy_multiplication_x: Incomplete |
-|Don't Panic|codegolf|9953|5309|:heavy_multiplication_x: Incomplete |
-|There is no Spoon - Episode 1|medium|94499|42707|:heavy_multiplication_x: Incomplete |
-|Shadows of the Knight - Episode 1|medium|63431|32114|:heavy_multiplication_x: Incomplete |
-|Skynet Revolution - Episode 1|medium|53326|30352|:heavy_multiplication_x: Incomplete |
-|Don't Panic - Episode 1|medium|31854|22600|:heavy_multiplication_x: Incomplete |
-|Stock Exchange Losses|medium|20421|17436|:heavy_multiplication_x: Incomplete |
-|The Last Crusade - Episode 1|medium|18168|14633|:heavy_multiplication_x: Incomplete |
-|War|medium|21758|14065|:heavy_multiplication_x: Incomplete |
-|Conway Sequence|medium|14102|12944|:heavy_multiplication_x: Incomplete |
-|Telephone Numbers|medium|14199|11675|:heavy_multiplication_x: Incomplete |
-|Scrabble|medium|13513|11480|:heavy_multiplication_x: Incomplete |
-|The Gift|medium|12712|10689|:heavy_multiplication_x: Incomplete |
-|Network Cabling|medium|12916|9328|:heavy_multiplication_x: Incomplete |
-|Dwarfs standing on the shoulders of giants|medium|10469|8600|:heavy_multiplication_x: Incomplete |
-|Mars Lander - Episode 2|medium|28655|8401|:heavy_multiplication_x: Incomplete |
-|Mayan Calculation|medium|10088|8236|:heavy_multiplication_x: Incomplete |
-|Bender - Episode 1|medium|12442|7908|:heavy_multiplication_x: Incomplete |
-|Teads Sponsored Contest|medium|15595|7092|:heavy_multiplication_x: Incomplete |
-|The Fastest|medium|6074|5075|:heavy_multiplication_x: Incomplete |
-|Skynet Revolution - Episode 2|hard|13614|3799|:heavy_multiplication_x: Incomplete |
-|Roller Coaster|hard|5499|3748|:heavy_multiplication_x: Incomplete |
-|The Labyrinth|hard|21104|3656|:heavy_multiplication_x: Incomplete |
-|Code of the Rings|optim|7425|2977|:heavy_multiplication_x: Incomplete |
-|Code vs Zombies|optim|11943|2873|:heavy_multiplication_x: Incomplete |
 |Ghost Legs|easy|3582|2551|:heavy_check_mark: Completed |
 |The River II.|easy|3205|2527|:heavy_check_mark: Completed |
 |Bank Robbers|easy|3337|2290|:heavy_check_mark: Completed |
-|Mars Lander|optim|6620|2258|:heavy_multiplication_x: Incomplete |
 |Balanced ternary computer: encode|easy|2613|1637|:heavy_check_mark: Completed |
 |The Travelling Salesman Problem|easy|2206|1625|:heavy_check_mark: Completed |
 |Rugby score|easy|2114|1531|:heavy_check_mark: Completed |
@@ -82,6 +54,27 @@
 |Brick in the Wall|easy|232|206|:heavy_multiplication_x: Incomplete |
 |Blowing Fuse|easy|179|156|:heavy_multiplication_x: Incomplete |
 |The Frog Jump 1|easy|124|86|:heavy_multiplication_x: Incomplete |
+|Power of Thor|codegolf|23272|17730|:heavy_multiplication_x: Incomplete |
+|Temperatures|codegolf|11755|8496|:heavy_multiplication_x: Incomplete |
+|Don't Panic|codegolf|9953|5309|:heavy_multiplication_x: Incomplete |
+|There is no Spoon - Episode 1|medium|94499|42707|:heavy_multiplication_x: Incomplete |
+|Shadows of the Knight - Episode 1|medium|63431|32114|:heavy_multiplication_x: Incomplete |
+|Skynet Revolution - Episode 1|medium|53326|30352|:heavy_multiplication_x: Incomplete |
+|Don't Panic - Episode 1|medium|31854|22600|:heavy_multiplication_x: Incomplete |
+|Stock Exchange Losses|medium|20421|17436|:heavy_multiplication_x: Incomplete |
+|The Last Crusade - Episode 1|medium|18168|14633|:heavy_multiplication_x: Incomplete |
+|War|medium|21758|14065|:heavy_multiplication_x: Incomplete |
+|Conway Sequence|medium|14102|12944|:heavy_multiplication_x: Incomplete |
+|Telephone Numbers|medium|14199|11675|:heavy_multiplication_x: Incomplete |
+|Scrabble|medium|13513|11480|:heavy_multiplication_x: Incomplete |
+|The Gift|medium|12712|10689|:heavy_multiplication_x: Incomplete |
+|Network Cabling|medium|12916|9328|:heavy_multiplication_x: Incomplete |
+|Dwarfs standing on the shoulders of giants|medium|10469|8600|:heavy_multiplication_x: Incomplete |
+|Mars Lander - Episode 2|medium|28655|8401|:heavy_multiplication_x: Incomplete |
+|Mayan Calculation|medium|10088|8236|:heavy_multiplication_x: Incomplete |
+|Bender - Episode 1|medium|12442|7908|:heavy_multiplication_x: Incomplete |
+|Teads Sponsored Contest|medium|15595|7092|:heavy_multiplication_x: Incomplete |
+|The Fastest|medium|6074|5075|:heavy_multiplication_x: Incomplete |
 |ANEO Sponsored Puzzle|medium|9044|2934|:heavy_multiplication_x: Incomplete |
 |Gravity|medium|3290|2799|:heavy_multiplication_x: Incomplete |
 |Minimal number of swaps|medium|3019|2282|:heavy_multiplication_x: Incomplete |
@@ -118,7 +111,6 @@
 |Army ants|medium|846|631|:heavy_multiplication_x: Incomplete |
 |CGFunge interpreter|medium|714|524|:heavy_multiplication_x: Incomplete |
 |Magic Square|medium|612|486|:heavy_multiplication_x: Incomplete |
-|A*Craft|optim|825|483|:heavy_multiplication_x: Incomplete |
 |Numeral system|medium|681|449|:heavy_multiplication_x: Incomplete |
 |Queneau Numbers|medium|475|412|:heavy_multiplication_x: Incomplete |
 |Brackets, Enhanced Edition|medium|645|397|:heavy_multiplication_x: Incomplete |
@@ -154,8 +146,8 @@
 |The Optimal Urinal Problem|medium|302|144|:heavy_multiplication_x: Incomplete |
 |Bulgarian solitaire|medium|167|142|:heavy_multiplication_x: Incomplete |
 |Paper labyrinth|medium|197|137|:heavy_multiplication_x: Incomplete |
-|Plight Of The Fellowship Of The Ring|medium|242|130|:heavy_multiplication_x: Incomplete |
 |Trits (Balanced Ternary Computing)|medium|141|130|:heavy_multiplication_x: Incomplete |
+|Plight Of The Fellowship Of The Ring|medium|242|130|:heavy_multiplication_x: Incomplete |
 |Horse-hyperracing Hyperduals|medium|204|129|:heavy_multiplication_x: Incomplete |
 |De-FizzBuzzer|medium|149|125|:heavy_multiplication_x: Incomplete |
 |Simplified Monopoly™ Turns Prediction|medium|141|124|:heavy_multiplication_x: Incomplete |
@@ -168,8 +160,8 @@
 |Brackets, Ultimate Edition|medium|186|100|:heavy_multiplication_x: Incomplete |
 |Short accounts make long friends|medium|143|85|:heavy_multiplication_x: Incomplete |
 |IP mask calculating|medium|85|80|:heavy_multiplication_x: Incomplete |
-|2-player game on a calculator|medium|121|76|:heavy_multiplication_x: Incomplete |
 |Goro Want Chocolate|medium|125|76|:heavy_multiplication_x: Incomplete |
+|2-player game on a calculator|medium|121|76|:heavy_multiplication_x: Incomplete |
 |Dynamic sorting|medium|88|73|:heavy_multiplication_x: Incomplete |
 |Enigma - 3 rotors without plugboard|medium|76|66|:heavy_multiplication_x: Incomplete |
 |Straddling Checkerboard Cryptography|medium|80|64|:heavy_multiplication_x: Incomplete |
@@ -179,6 +171,9 @@
 |\ Domino Puzzle /|medium|41|33|:heavy_multiplication_x: Incomplete |
 |Guessing digits|medium|91|30|:heavy_multiplication_x: Incomplete |
 |EUROPEAN RUGBY CHAMPIONS CUP RANKING|medium|37|25|:heavy_multiplication_x: Incomplete |
+|Skynet Revolution - Episode 2|hard|13614|3799|:heavy_multiplication_x: Incomplete |
+|Roller Coaster|hard|5499|3748|:heavy_multiplication_x: Incomplete |
+|The Labyrinth|hard|21104|3656|:heavy_multiplication_x: Incomplete |
 |The greatest number|hard|4827|2898|:heavy_multiplication_x: Incomplete |
 |Surface|hard|3753|2877|:heavy_multiplication_x: Incomplete |
 |Super Computer|hard|4056|2742|:heavy_multiplication_x: Incomplete |
@@ -193,11 +188,11 @@
 |Bender - Episode 3|hard|2378|1358|:heavy_multiplication_x: Incomplete |
 |Simple safecracking|hard|2090|1329|:heavy_multiplication_x: Incomplete |
 |Elevator|hard|2200|998|:heavy_multiplication_x: Incomplete |
-|Power of Thor - Episode 2|hard|4357|854|:heavy_multiplication_x: Incomplete |
 |There is no Spoon - Episode 2|hard|5924|854|:heavy_multiplication_x: Incomplete |
+|Power of Thor - Episode 2|hard|4357|854|:heavy_multiplication_x: Incomplete |
 |Don't Panic - Episode 2|hard|6062|825|:heavy_multiplication_x: Incomplete |
-|Anagrams|hard|1100|778|:heavy_multiplication_x: Incomplete |
 |The hungry duck - part 1|hard|1320|778|:heavy_multiplication_x: Incomplete |
+|Anagrams|hard|1100|778|:heavy_multiplication_x: Incomplete |
 |The Last Crusade - Episode 2|hard|3226|769|:heavy_multiplication_x: Incomplete |
 |7-segment display|hard|1254|707|:heavy_multiplication_x: Incomplete |
 |Highest truncated pyramid|hard|1337|656|:heavy_multiplication_x: Incomplete |
@@ -242,8 +237,8 @@
 |Chess moves on FEN position|hard|390|246|:heavy_multiplication_x: Incomplete |
 |Binary Permutations|hard|486|222|:heavy_multiplication_x: Incomplete |
 |Hill Notation and Hill Order|hard|455|219|:heavy_multiplication_x: Incomplete |
-|Castle Siege|hard|284|201|:heavy_multiplication_x: Incomplete |
 |Electrical grid|hard|447|201|:heavy_multiplication_x: Incomplete |
+|Castle Siege|hard|284|201|:heavy_multiplication_x: Incomplete |
 |Test before Validate!|hard|399|188|:heavy_multiplication_x: Incomplete |
 |Execution Circle|hard|291|180|:heavy_multiplication_x: Incomplete |
 |The Beautiful sequence|hard|302|179|:heavy_multiplication_x: Incomplete |
@@ -262,8 +257,8 @@
 |Pascal Trapezoid|hard|160|95|:heavy_multiplication_x: Incomplete |
 |Max Rect|hard|148|95|:heavy_multiplication_x: Incomplete |
 |The Burglar's Dilemna|hard|138|94|:heavy_multiplication_x: Incomplete |
-|Misère Nim|hard|130|82|:heavy_multiplication_x: Incomplete |
 |Cheat Solving|hard|129|82|:heavy_multiplication_x: Incomplete |
+|Misère Nim|hard|130|82|:heavy_multiplication_x: Incomplete |
 |Sum of odd|hard|94|77|:heavy_multiplication_x: Incomplete |
 |Monte Carlo Tree Search exercise|hard|103|72|:heavy_multiplication_x: Incomplete |
 |Musical Intervals|hard|92|71|:heavy_multiplication_x: Incomplete |
@@ -273,11 +268,11 @@
 |Factorials of primes decomposition|hard|77|65|:heavy_multiplication_x: Incomplete |
 |Rocket mice|hard|100|64|:heavy_multiplication_x: Incomplete |
 |The Total is Right - Weird edition|hard|82|62|:heavy_multiplication_x: Incomplete |
-|Symbolic system of equations|hard|68|56|:heavy_multiplication_x: Incomplete |
 |Horn-SAT solver|hard|66|56|:heavy_multiplication_x: Incomplete |
+|Symbolic system of equations|hard|68|56|:heavy_multiplication_x: Incomplete |
 |Dumbbells solver|hard|58|54|:heavy_multiplication_x: Incomplete |
-|Breakout|hard|75|52|:heavy_multiplication_x: Incomplete |
 |Remainder Fantasy|hard|60|52|:heavy_multiplication_x: Incomplete |
+|Breakout|hard|75|52|:heavy_multiplication_x: Incomplete |
 |Neighbor-Sum Grids|hard|69|42|:heavy_multiplication_x: Incomplete |
 |Harmless Rooks|hard|70|42|:heavy_multiplication_x: Incomplete |
 |The Balanced Centrifuge Problem|hard|29|21|:heavy_multiplication_x: Incomplete |
@@ -311,47 +306,52 @@
 |Prime Transformations|expert|473|145|:heavy_multiplication_x: Incomplete |
 |Squares order|expert|297|103|:heavy_multiplication_x: Incomplete |
 |Fill the square!|expert|279|101|:heavy_multiplication_x: Incomplete |
-|Unfolding paper|expert|343|99|:heavy_multiplication_x: Incomplete |
 |Binary neural network - Part 1|expert|410|99|:heavy_multiplication_x: Incomplete |
+|Unfolding paper|expert|343|99|:heavy_multiplication_x: Incomplete |
 |Spy the Spies|expert|405|92|:heavy_multiplication_x: Incomplete |
 |Completed Mahjong Hands|expert|245|86|:heavy_multiplication_x: Incomplete |
 |Xorandor|expert|365|84|:heavy_multiplication_x: Incomplete |
-|Binary neural network - Part 2|expert|232|83|:heavy_multiplication_x: Incomplete |
 |Haunted Manor|expert|253|83|:heavy_multiplication_x: Incomplete |
+|Binary neural network - Part 2|expert|232|83|:heavy_multiplication_x: Incomplete |
 |Flood the World|expert|356|81|:heavy_multiplication_x: Incomplete |
 |Dungeon Designer|expert|224|80|:heavy_multiplication_x: Incomplete |
 |CodinDice|expert|327|78|:heavy_multiplication_x: Incomplete |
-|Hitori solver|expert|346|76|:heavy_multiplication_x: Incomplete |
 |Hourglass|expert|142|76|:heavy_multiplication_x: Incomplete |
+|Hitori solver|expert|346|76|:heavy_multiplication_x: Incomplete |
 |Minimax Simple Example|expert|281|74|:heavy_multiplication_x: Incomplete |
 |High-rise buildings|expert|249|72|:heavy_multiplication_x: Incomplete |
 |Cubax Folding|expert|237|57|:heavy_multiplication_x: Incomplete |
 |Cross the lines|expert|180|53|:heavy_multiplication_x: Incomplete |
 |Ticket to Ride: Europe|expert|139|47|:heavy_multiplication_x: Incomplete |
 |CG Chat interpreter - Part 1|expert|60|46|:heavy_multiplication_x: Incomplete |
-|Bender - Episode 4|optim|189|10|:heavy_multiplication_x: Incomplete |
-|Xmas Rush|multi|592|0|:heavy_multiplication_x: Incomplete |
-|Coders Strike Back|multi|107428|0|:heavy_multiplication_x: Incomplete |
-|Ghost in the Cell|multi|5459|0|:heavy_multiplication_x: Incomplete |
 |Legends of Code & Magic|multi|1490|0|:heavy_multiplication_x: Incomplete |
 |Mean Max|multi|2971|0|:heavy_multiplication_x: Incomplete |
-|Fantastic Bits|multi|3139|0|:heavy_multiplication_x: Incomplete |
-|Game of Drones|multi|10617|0|:heavy_multiplication_x: Incomplete |
+|Code4Life|multi|3602|0|:heavy_multiplication_x: Incomplete |
+|Vindinium|multi|233|0|:heavy_multiplication_x: Incomplete |
+|Botters of the Galaxy|multi|1203|0|:heavy_multiplication_x: Incomplete |
+|Tron Battle|multi|14284|0|:heavy_multiplication_x: Incomplete |
+|Hypersonic|multi|3527|0|:heavy_multiplication_x: Incomplete |
+|Wondev Woman|multi|2646|0|:heavy_multiplication_x: Incomplete |
+|Ghost in the Cell|multi|5459|0|:heavy_multiplication_x: Incomplete |
+|Code of Kutulu|multi|1285|0|:heavy_multiplication_x: Incomplete |
 |Ultimate Tic-Tac-Toe|multi|3230|0|:heavy_multiplication_x: Incomplete |
+|Xmas Rush|multi|592|0|:heavy_multiplication_x: Incomplete |
+|Game of Drones|multi|10617|0|:heavy_multiplication_x: Incomplete |
 |Smash The Code|multi|4125|0|:heavy_multiplication_x: Incomplete |
 |Coders of the Caribbean|multi|3975|0|:heavy_multiplication_x: Incomplete |
-|Code Royale|multi|2487|0|:heavy_multiplication_x: Incomplete |
 |Platinum Rift - Episode 2|multi|3962|0|:heavy_multiplication_x: Incomplete |
-|Code of Kutulu|multi|1285|0|:heavy_multiplication_x: Incomplete |
+|Code Royale|multi|2487|0|:heavy_multiplication_x: Incomplete |
+|Platinum Rift - Episode 1|multi|5785|0|:heavy_multiplication_x: Incomplete |
 |Langton s Ant|multi|92|0|:heavy_multiplication_x: Incomplete |
 |Poker Chip Race|multi|7034|0|:heavy_multiplication_x: Incomplete |
 |CodeBusters|multi|4239|0|:heavy_multiplication_x: Incomplete |
 |Back to the Code|multi|18408|0|:heavy_multiplication_x: Incomplete |
 |Great escape|multi|11603|0|:heavy_multiplication_x: Incomplete |
-|Code4Life|multi|3602|0|:heavy_multiplication_x: Incomplete |
-|Platinum Rift - Episode 1|multi|5785|0|:heavy_multiplication_x: Incomplete |
-|Wondev Woman|multi|2646|0|:heavy_multiplication_x: Incomplete |
-|Tron Battle|multi|14284|0|:heavy_multiplication_x: Incomplete |
-|Hypersonic|multi|3527|0|:heavy_multiplication_x: Incomplete |
-|Botters of the Galaxy|multi|1203|0|:heavy_multiplication_x: Incomplete |
-|Vindinium|multi|233|0|:heavy_multiplication_x: Incomplete |
+|Coders Strike Back|multi|107428|0|:heavy_multiplication_x: Incomplete |
+|Fantastic Bits|multi|3139|0|:heavy_multiplication_x: Incomplete |
+|CodinGame Sponsored Contest|optim|24506|9175|:heavy_multiplication_x: Incomplete |
+|Code of the Rings|optim|7425|2977|:heavy_multiplication_x: Incomplete |
+|Code vs Zombies|optim|11943|2873|:heavy_multiplication_x: Incomplete |
+|Mars Lander|optim|6620|2258|:heavy_multiplication_x: Incomplete |
+|A*Craft|optim|825|483|:heavy_multiplication_x: Incomplete |
+|Bender - Episode 4|optim|189|10|:heavy_multiplication_x: Incomplete |
