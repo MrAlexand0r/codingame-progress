@@ -27,7 +27,7 @@
 |orDer oF succeSsion|easy|1521|976|:heavy_check_mark: Completed |
 |ISBN Check digit|easy|1301|968|:heavy_check_mark: Completed |
 |How time flies|easy|1925|927|:heavy_check_mark: Completed |
-|Simple Awalé|easy|1125|926|:heavy_multiplication_x: Incomplete |
+|Simple Awalé|easy|1125|926|:heavy_check_mark: Completed |
 |Dead men's shot|easy|1626|872|:heavy_multiplication_x: Incomplete |
 |Disordered First Contact|easy|1561|862|:heavy_multiplication_x: Incomplete |
 |1×1×1 Rubik’s cube movements|easy|1165|847|:heavy_check_mark: Completed |
