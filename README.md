@@ -28,8 +28,8 @@
 |ISBN Check digit|easy|1301|968|:heavy_check_mark: Completed |
 |How time flies|easy|1925|927|:heavy_check_mark: Completed |
 |Simple Awalé|easy|1125|926|:heavy_check_mark: Completed |
-|Dead men's shot|easy|1626|872|:heavy_multiplication_x: Incomplete |
-|Disordered First Contact|easy|1561|862|:heavy_multiplication_x: Incomplete |
+|Dead men's shot|easy|1626|872|:heavy_check_mark: Completed |
+|Disordered First Contact|easy|1561|862|:heavy_check_mark: Completed |
 |1×1×1 Rubik’s cube movements|easy|1165|847|:heavy_check_mark: Completed |
 |XML MDF-2016|easy|928|812|:heavy_multiplication_x: Incomplete |
 |Bulk Email Generator|easy|1279|786|:heavy_multiplication_x: Incomplete |
